@@ -29,5 +29,5 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
 # client
-angular搭建服务端，通过http与服务端进行通讯
+angular搭建客户端，通过http与服务端进行通讯
 >>>>>>> 4702637da729e4117255d36f5c6cef02431c20c9
